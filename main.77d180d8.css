@@ -1,0 +1,2 @@
+*{box-sizing:border-box}.watch{transform:translate(-50%,-50%) rotate(180deg)}.watch,.watch__arrow{position:absolute;top:50%;left:50%}.watch__arrow{width:20px;transform-origin:top center;border-radius:10px}.watch__arrow--seconds{height:250px;background:#797ef6;animation:goRound 60s linear infinite}.watch__arrow--minutes{height:150px;background:#00f;animation:goRound 3600s linear infinite}@keyframes goRound{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}
+/*# sourceMappingURL=main.77d180d8.css.map */
